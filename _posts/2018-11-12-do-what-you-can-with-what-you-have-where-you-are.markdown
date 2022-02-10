@@ -2,7 +2,7 @@
 layout: post
 title:  MBA懶人包9之2 - 全球MBA排名，申請前必看！
 description: MBA排名一直是每次學生申請學校參考的重要指標之一，就像是用成績辨別一個學生...
-date:   2021-02-12 15:01:35 +0300
+date:   2021-08-12 15:01:35 +0300
 image:  '/images/new02.jpg'
 tags:   []
 ---
@@ -14,9 +14,13 @@ MBA排名一直是每次學生申請學校參考的重要指標之一，就像�
 
 先來看FT前10名，不意外Harvard、Warton、Stanford等美國最貴最好的學校稱霸前三。歐洲也不惶多讓，擠進前十名的學校有法國INSEAD、英國LBS、法國HEC Paris。地理位置分佈比例分別是美國6：歐洲3：亞洲1，可見FT排名十分國際化。
 
+![Beach]({{site.baseurl}}/images/FTranking.png)
+
 接著我們來看經濟學人The Economist，美國學校表現出眾，共有八間佔據前十，歐洲只有法國HEC Paris和西班牙IESE擠進名單，其中在Band A的只有芝大、哈佛、HEC、和西北四所。交叉分析哪些學校在兩份榜單裡都獲得青睞，美國分別有Booth、Harvard、Warton、Stanford，而歐洲只有HEC Paris。
 
 Full-time MBA Ranking 2019
+
+![Beach]({{site.baseurl}}/images/ECranking.png)
 
 所以結論是排名越高越好嗎？答案其實不一定，要看你在乎什麼，排名是其中一個參考指標，幫你過濾掉有問題的學校，但不會是唯一選校的標準。
 
