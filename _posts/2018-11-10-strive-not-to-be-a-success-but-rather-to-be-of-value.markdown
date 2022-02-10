@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  MBA懶人包9之4 一MBA考試必勝書單！
+title:  MBA懶人包9之5 一MBA考試必勝書單！
 description: OG是每個考生必備教材，沒有它宛如矇眼上戰場，但當你滿心期待打開它試做了...
-date:   2021-06-10 15:01:35 +0300
+date:   2021-05-10 15:01:35 +0300
 image:  '/images/new04.jpg'
 tags:   []
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  MBA懶人包9之2 - 全球MBA排名，申請前必看！
+title:  MBA懶人包9之4 - 全球MBA排名，申請前必看！
 description: MBA排名一直是每次學生申請學校參考的重要指標之一，就像是用成績辨別一個學生...
-date:   2021-08-12 15:01:35 +0300
+date:   2021-06-12 15:01:35 +0300
 image:  '/images/new02.jpg'
 tags:   []
 ---

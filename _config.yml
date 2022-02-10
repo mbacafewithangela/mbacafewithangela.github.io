@@ -14,6 +14,8 @@ author:
   author__name: Angela Chen
   author__bio: 畢業於巴黎高等商學院HEC Paris，獲得超過110萬台幣獎學金。已替學校面試將近10位來自世界各地的申請者與超過十年顧問經驗。
   author__avatar: '/images/home-01.jpg'
+  author__service: 服務內容
+  author__contact: 聯繫方式
 
 # social:
 # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -31,8 +33,6 @@ author:
 hero:
   hero__title: Hey, I’m Angela
   hero__description: 畢業於巴黎高等商學院HEC Paris，獲得超過110萬台幣獎學金。已替學校面試將近10位來自世界各地的申請者與超過十年顧問經驗，讓我幫你申請上理想的學校。
-  hero__service: 服務內容 https://mbacafewithangela.github.io/Service/ 
-  hero__contact: 聯繫方式 https://mbacafewithangela.github.io/contact/
   hero__image: '/images/home-01.jpg'
 
 

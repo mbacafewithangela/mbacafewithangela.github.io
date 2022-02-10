@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  MBA懶人包9之8 一獎學金最佳申請時機
+title:  MBA懶人包9之6 一獎學金最佳申請時機
 description: MBA大部分都是九月入學，如果你想要2023年的9月開始...
-date:   2021-02-29 18:05:55 +0300
+date:   2021-04-29 18:05:55 +0300
 image:  '/images/new08-0.jpg'
 tags:   []
 ---
